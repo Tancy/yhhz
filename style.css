@@ -1,0 +1,70 @@
+html,body,div,h1,h2,h3,h4,h5,h6,ul,ol,dl,dt,dd,p,blockquote,form,code,pre,fieldset,table,th,td{margin:0;padding:0;}
+body,textarea,code,input,select{font:12px/160% \5FAE\8F6F\96C5\9ED1,\5B8B\4F53,Tahoma,Arial;color:#333;}
+li{list-style: none}
+a{text-decoration: none}
+a.gray {color: #6D6D6D;}
+p{text-indent:32px}
+img{border: 0;}
+body{font-family:"Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana;color:#f7fbe9;background: #}
+.page{margin: 0 auto;width: 940px;background: #fff}
+.header{font-weight: bold;font-size: 40px;line-height: 80px;color: #333;padding-left: 10px}
+.nav{background:#DEDEDE;line-height: 40px;height: 40px;font-size: 16px;font-weight: bold;}
+.nav .bg{background: #39B8FF;height: 38px;padding: 0 10px;}
+.nav a{float: left;display: block;padding: 0 20px;color: #FFFFFF;text-decoration: none;}
+.nav a:hover{background-color: #2CA243;color: #DAE23F;height: 40px;}
+.header span{font-size: 48px}
+.content{color: #333}
+.banner{height: 298px;border: 1px #666 solid;overflow: hidden;}
+.banner1{height: 98px;border: 1px #666 solid;overflow: hidden;}
+
+.title{margin-top: 20px;padding-left:10px;font-weight: bold;font-size: 30px;line-height: 60px;color:#17612B;}
+.title a:visited{color:#17612B;}
+.bline{border-bottom: solid 3px #009ad9}
+.btline{border-bottom: solid 1px #BDBEC1}
+.clear{clear: both;height: 1px;line-height: 1px;}
+div.product_row_top {
+    padding: 30px 0px;
+}
+
+div.product_row {
+    border-top: 1px dotted #d4d4d4;
+    padding: 30px 0px;
+}
+
+h4.product_title {
+    font-size: 17px;
+    font-weight: bold;
+    margin:15px 0 7px;
+}
+
+h5.product_title {
+    font-size:13px;
+    font-weight:bold;
+    margin-top:7px;
+}
+
+p.product_subtext {
+    font-size: 11px;
+}
+
+div.product_left_cell, div.product_cell {
+    float: left;
+    width: 158px;
+    height: 200px;
+    padding: 0px 37px;
+}
+
+div.product_cell {
+    border-left: 1px dotted #d4d4d4;
+}
+a.morelink { display:block; padding:7px 20px; color: white; font-weight:bold; height:14px; text-decoration:none;}
+.sec_foot,.sec_foot1 { height:27px; border-bottom: 1px solid #d5d5d5; clear:left; margin-bottom:10px;}
+.sec_foot a {float: right;clear: right;}
+.sec_foot1 a {float: left;clear: right;}
+
+.purplebg {background: #532b8d; }
+.intro{margin:10px 40px;font-size: 16px;line-height: 24px}
+.info{margin:10px 40px}
+.info li{line-height: 30px;font-size: 18px;}
+.info li span{font-size: 20px;font-weight: bold;width: 95px;display: block;float: left;}
+footer{padding: 15px 25px 20px 25px;font-size: 12px;text-align: center;color: #666;}
